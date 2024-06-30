@@ -1,0 +1,23 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  padding: 2rem;
+}
+
+.snippet {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  margin-bottom: 1rem;
+}
+
+.snippet h3 {
+  margin-top: 0;
+}
+
+.links {
+  margin-top: 1rem;
+}
+
+.links a {
+  margin-right: 1rem;
+}
